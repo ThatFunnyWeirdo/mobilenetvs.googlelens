@@ -1,0 +1,29 @@
+#test 
+{
+    
+    font-size: 20px;
+}
+
+img
+{
+    height: 400px;
+    width: 300px;
+    margin-right: 900px;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+
+.test_image_and_result
+{
+    float: right;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.inline
+{
+    display: inline;
+}
